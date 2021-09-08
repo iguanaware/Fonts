@@ -11,7 +11,7 @@
     <PackageProjectUrl>$(RepositoryUrl)</PackageProjectUrl>
     <PackageTags>font;truetype;opentype;woff</PackageTags>
     <Description>A cross-platform library for loading and laying out fonts for processing and measuring; written in C#</Description>
-    <TargetFrameworks>netstandard2.1;netstandard2.0;netstandard1.3</TargetFrameworks>
+    <TargetFrameworks>netstandard2.1</TargetFrameworks>
     <Nullable>enable</Nullable>
 
     <!--Prevent version conflicts in DrawWithImageSharp-->
